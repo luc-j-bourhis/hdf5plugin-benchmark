@@ -6,6 +6,12 @@ First, install `uv`, then clone the repo with `git`, then `uv run python benchma
 
 ## Some results
 
+Config:
+
+- 13th Gen Intel(R) Core(TM) i7-13850HX
+- Microsoft Windows 11 Enterprise
+- NVMe KIOXIA 1024GB
+
 With 1 CPU,
 
 ![](benchmark-1-cpu.png)
